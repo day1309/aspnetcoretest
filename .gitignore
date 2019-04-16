@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/SenegociaTest/v15
+/SenegociaTest/bin/Debug/netcoreapp2.2
+/SenegociaTest/obj
+/.dockerignore
+/SenegociaTest/Dockerfile
